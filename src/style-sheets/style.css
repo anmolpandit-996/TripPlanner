@@ -77,3 +77,6 @@ input:focus {
   font-size: 25px;
   align-self: center;
 }
+.red{
+  color: rgb(134, 3, 3);
+}
